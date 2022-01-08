@@ -1,6 +1,0 @@
-userids = {
-[USERID HERE] = true,
-[USERID HERE] = true,
-[USERIDHERE] = true
-}
-return userids
